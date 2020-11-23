@@ -1,0 +1,23 @@
+[
+    {
+        "username": "pedro",
+        "password": "password123",
+        "email": "pedro12@gmail.com",
+        "mobile": 632014527
+    }
+    ,
+    {
+        "username": "pedro",
+        "password": "password123"
+    },
+    {
+        "username": "prueba",
+        "password": "123456xD",
+        "email": "xd@lol.com",
+        "mobile": 666120478
+    },
+    {
+        "username": "prueba",
+        "password": "123456xD"
+    }
+]
