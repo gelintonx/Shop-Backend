@@ -8,13 +8,20 @@
     ,
     {
         "username": "pedro",
-        "password": "password123"
+        "password": "password123",
+        "token": "ed9eecbfedaab735a6ffc9ad0b7164c9b264d16b"
     },
     {
         "username": "prueba",
         "password": "123456xD",
         "email": "xd@lol.com",
         "mobile": 666120478
+    },
+    {
+        "username": "elpepe",
+        "password": "carrera",
+        "email": "elpepe12@gmail.com",
+        "mobile": 633120458
     },
     {
         "username": "prueba",
