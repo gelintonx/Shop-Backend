@@ -1,0 +1,49 @@
+import stripe
+
+stripe.api_key = 'sk_test_51HtFE9AfcJJbUz6zO8XP3aRwn0GF8KRu3Q5tv3yEyphjpAuHyQ2TveT6quYJXQNFJ6uRXrAd7ORejJpoWejj4I8r008loe7suX'
+
+
+def calculate_oreder():
+    return 56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
