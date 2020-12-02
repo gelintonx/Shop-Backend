@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'authService',
     'products',
     'payments',
+    'orders',
     'rest_framework.authtoken',
     'rest_framework'
 ]
