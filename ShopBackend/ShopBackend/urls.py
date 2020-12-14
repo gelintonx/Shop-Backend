@@ -12,5 +12,5 @@ urlpatterns = [
     path('register/',authService_views.register),
     path('login/',authService_views.login),
     path('payment/',payments_views.create_payment),
-    
+    path('products/', products_views.get_products),
 ]
