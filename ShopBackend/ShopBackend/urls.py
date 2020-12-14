@@ -10,5 +10,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('register/',authServiceViews.register),
     path('login/',authServiceViews.login),
-    
+    path('products/', productsViews.get_products),
 ]
